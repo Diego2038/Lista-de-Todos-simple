@@ -5,7 +5,7 @@ Para usar el respositorio, se deberá de ejecutar el siguiente comando para desc
 npm install
 ```
 
-Una vez descargadas, para correrlas en su máquina local, utilice el siguiente comando:
+Si desea ejecutar los archivos de desarrollo, utilice el siguiente comando:
 ```
 npm run start
 ```
